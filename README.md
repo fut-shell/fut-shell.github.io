@@ -1,6 +1,6 @@
 ---
-title: The Future of the Unix Shell
-subtitle: A HotOS21 Panel on Management, Configuration, Orchestration, and Data Processing in the Shell
+title: "The Future of the Shell: Unix and Beyond"
+subtitle: A HotOS'21 Panel on Management, Configuration, Orchestration, and Data Processing in the Shell
 # author: " [Nikos Vasilakis](http://nikos.vasilak.is)"
 Quick info: "[Jun. 2, 2021, 1–2:30PM ET](https://calendar.google.com/event?action=TEMPLATE&tmeid=NTA2Mm1tZ2FzMXVvamFzYTEzNHZjdXVnZzEgbmlrb3NAdmFzaWxhay5pcw&tmsrc=nikos%40vasilak.is) | Registration: [HotOS](https://web.cvent.com/event/ea21de2e-ff68-470b-8b09-743b6572c469/) | Contact: [future-shell](https://groups.google.com/g/future-shell)"
 ---
@@ -33,39 +33,52 @@ The focus will be on topics related to shell scripts and their runtime environme
 
 The concrete topics of the panel will be informed by the interests of the panel's participants. We'll produce a summary of the event: participants will be able to contribute their perspectives and visions to the summary.
 
-### (Possible) Format(s)
+### Format
 
-We are in the process of deciding on the panel's format, depending on the feedback/ideas we receive from panelists and attendees. Here are a few different formats we are considering
+The 90-minute event (on June 2<sup>nd</sup> 2021 from 1--2:30pm
+ET) has a small panel of experts on shell-related topics. The
+event itself is discussion based.
 
-* Challenge problems: each panelist provides a challenge problem related to the shell and Ops; each discussed
+| Activity                                          | Time  |
+| :------------------------------------------------ | ----: |
+| Introduction                                      | 10min |
+| Panelists summarize statement                     | 10min |
+| Breakout in three topic-oriented rooms            | 30min |
+| *Break*                                           | 5min  |
+| More breakout, attendees shuffle rooms            | 15min |
+| Panelists summarize discussions for all attendees | 15min |
+| Closing                                           | 5min  |
 
-* Formal panel: panelists provide a statement, pre-arranged prompts/questions from the audience
 
-* Discussion tables: rotate between randomized rooms, given topics/prompts
-
-* Hybrid: short statements + prompts from a few folks, then discussed in randomized groups
-
-* Topic tables: Each table is assigned a research direction and participants move between them
+The panelists will produce single-page statements of their interest in
+  and vision for the shell, offering one or more *challenge
+  problems*. We will distribute these statements in advance to
+  participants.
 
 ### Structure
 
-We have already confirmed the following panelists:
+Our panelists will be:
 
-* Arjun Guha (Northeastern; author of POSH)
-* Diomidis Spinellis (AUEB \& TU Delft)
-* Deepti Raghavan (Stanford; author of POSH)
+* [Arjun Guha](https://ccs.neu.edu/~arjunguha/main/home/) (Northeastern University)
+* [Deepti Raghavan](https://deeptir.me/) (Stanford University)
+* [Chet Ramey](https://tiswww.case.edu/php/chet/) (Case Western Reserve University)
+* [Diomidis Spinellis](https://www2.dmst.aueb.gr/dds/) (Athens University of Economics and Business; Delft University of Technology)
 
-Participants include 
-Andy Chu
-Carol Alexandru
-Chet Ramey
-Christos Dimoulas
-Jiasi Shen
-Julia Lawall
-Jürgen Cito
-Keith Winstein
-Michał J Gajda
-Ruzica Piskac
+We have confirmed 13 participants (updated May 12<sup>th</sup>):
+
+* [Carol Alexandru](https://www.ifi.uzh.ch/en/seal/people/alexandru.html) (University of Zurich)
+* [Andy Chu](https://andychu.net/) (Unaffiliated)
+* [Jürgen Cito](http://people.csail.mit.edu/jcito/) (TU Wien)
+* [Tom Van Cutsem](https://tvcutsem.github.io/) (Bell Labs)
+* [Christos Dimoulas](http://users.eecs.northwestern.edu/~chrdimo/) (Northeastern University)
+* [Michał J Gajda](http://www.migamake.com/) (Migamake)
+* [Elena Glassman](https://glassmanlab.seas.harvard.edu/glassman.html) (Harvard University)
+* [Vidar Holen](https://www.vidarholen.net/) (Facebook)
+* [David Karger](http://people.csail.mit.edu/karger/) (MIT)
+* [Julia Lawall](https://who.paris.inria.fr/Julia.Lawall/) (Inria-Paris; IRILL)
+* [Doug McIlroy](https://www.cs.dartmouth.edu/~doug/) (Dartmouth College)
+* [Ruzica Piskac](http://www.cs.yale.edu/homes/piskac/) (Yale University)
+* [Jiasi Shen](http://shenjiasi.com/) (MIT)
 
 ### Organizers / Contact
 

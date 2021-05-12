@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="generator" content="pandoc">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-  <title>The Future of the Unix Shell</title>
+  <title>The Future of the Shell: Unix and Beyond</title>
   <style type="text/css">code{white-space: pre;}</style>
   <link rel="stylesheet" href="./utils/tufte.css">
   <link rel="stylesheet" href="./utils/pandoc.css">
@@ -17,14 +17,15 @@
 <body>
 <article>
 <header>
-<h1 class="title">The Future of the Unix Shell</h1>
-<p class="subtitle">A HotOS21 Panel on Management, Configuration, Orchestration, and Data Processing in the Shell</p>
-<p class="byline">When: <a href="TODO-CALENDAR">Jun. 1, 2021, 3–4:30PM ET</a> | Room: <a href="TODO-ZOOM">Zoom</a> | Contact: <a href="mailto:future-shell@googlegroups.com">future-shell</a></p>
+<h1 class="title">The Future of the Shell: Unix and Beyond</h1>
+<p class="subtitle">A HotOS’21 Panel on Management, Configuration, Orchestration, and Data Processing in the Shell</p>
 </header>
+<p>The goal of this <a href="https://sigops.org/s/conferences/hotos/2021/">HotOS’21</a> panel to explore and highlight future avenues for research in the context of the shell, informed by both industry and academia—across various academic communities including systems, programming languages, software engineering, security, and human-computer interaction. We envision this panel as a round-table discussion between panelists and participants, which include many authors of shell-related technologies — <em>e.g.</em>, popular and niche shells, static analysis for the shell, secure shell scripting languages, automated shell script parallelization, shell semantics, etc. We anticipate minimal distinction between panelists and participants in the discussion: panelists will provide brief statements (~2min) about the future and/or challenges of the shell to get the discussion started, and will facilitate the discussion in various ways. We’ll have some iterated discussion in a few themed rooms, shuffling once or twice to let people explore different topics.</p>
+<p>Attendees will have the ability to participate in “webinar” format, some way for them to ask questions, get them upvoted or whatever. These questions and the discussion will be moderated by the organizers. To attend, <a href="https://web.cvent.com/event/ea21de2e-ff68-470b-8b09-743b6572c469/">please register with HotOS</a>.</p>
 <section>
 <section id="background-aim-and-scope" class="level3">
 <h3>Background, Aim, and Scope</h3>
-<p>The Unix shell is the <em>de facto</em> choice for specifying succinct and simple scripts for system orchestration, automation, and data ingestion. Ops trends in containerizaton and the cloud have brought shell scripting back to prominence, and thus motivate research of both theoretical and practical significance. The aim of this <a href="https://sigops.org/s/conferences/hotos/2021/">HotOS’21</a> Panel is to provide a forum for the discussion of new, renewed, and continued research in this area.</p>
+<p>The Unix shell is the <em>de facto</em> choice for specifying succinct and simple scripts for system orchestration, automation, and data ingestion. Ops trends in containerization and the cloud have brought shell scripting back to prominence, and thus motivate research of both theoretical and practical significance. The aim of this <a href="https://sigops.org/s/conferences/hotos/2021/">HotOS’21</a> Panel is to provide a forum for the discussion of new, renewed, and continued research in this area.</p>
 <p>The focus will be on topics related to shell scripts and their runtime environments, and includes:</p>
 <ul>
 <li>Implementations and performance</li>
@@ -37,29 +38,74 @@
 </ul>
 <p>The concrete topics of the panel will be informed by the interests of the panel’s participants. We’ll produce a summary of the event: participants will be able to contribute their perspectives and visions to the summary.</p>
 </section>
-<section id="possible-formats" class="level3">
-<h3>(Possible) Format(s)</h3>
-<p>We are in the process of deciding on the panel’s format, depending on the feedback/ideas we receive from panelists and attendees. Here are a few different formats we are considering</p>
-<ul>
-<li><p>Challenge problems: each panelist provides a challenge problem related to the shell and Ops; each discussed</p></li>
-<li><p>Formal panel: panelists provide a statement, pre-arranged prompts/questions from the audience</p></li>
-<li><p>Discussion tables: rotate between randomized rooms, given topics/prompts</p></li>
-<li><p>Hybrid: short statements + prompts from a few folks, then discussed in randomized groups</p></li>
-<li><p>Topic tables: Each table is assigned a research direction and participants move between them</p></li>
-</ul>
+<section id="format" class="level3">
+<h3>Format</h3>
+<p>The 90-minute event (on June 2<sup>nd</sup> 2021 from 1–2:30pm ET) has a small panel of experts on shell-related topics. The event itself is discussion based.</p>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Activity</th>
+<th style="text-align: right;">Time</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Introduction</td>
+<td style="text-align: right;">10min</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Panelists summarize statement</td>
+<td style="text-align: right;">10min</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Breakout in three topic-oriented rooms</td>
+<td style="text-align: right;">30min</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><em>Break</em></td>
+<td style="text-align: right;">5min</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">More breakout, attendees shuffle rooms</td>
+<td style="text-align: right;">15min</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Panelists summarize discussions for all attendees</td>
+<td style="text-align: right;">15min</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Closing</td>
+<td style="text-align: right;">5min</td>
+</tr>
+</tbody>
+</table>
+<p>The panelists will produce single-page statements of their interest in and vision for the shell, offering one or more <em>challenge problems</em>. We will distribute these statements in advance to participants.</p>
 </section>
-<section id="panelists" class="level3">
-<h3>Panelists</h3>
-<p>Confirmed:</p>
+<section id="structure" class="level3">
+<h3>Structure</h3>
+<p>Our panelists will be:</p>
 <ul>
-<li>Arjun Guha (Northeastern University)</li>
-<li>Diomidis Spinellis (Athens University of Economics and Business; Delft University of Technology)</li>
-<li>Deepti Raghavan (Stanford University)</li>
+<li><a href="https://ccs.neu.edu/~arjunguha/main/home/">Arjun Guha</a> (Northeastern University)</li>
+<li><a href="https://deeptir.me/">Deepti Raghavan</a> (Stanford University)</li>
+<li><a href="https://tiswww.case.edu/php/chet/">Chet Ramey</a> (Case Western Reserve University)</li>
+<li><a href="https://www2.dmst.aueb.gr/dds/">Diomidis Spinellis</a> (Athens University of Economics and Business; Delft University of Technology)</li>
 </ul>
-</section>
-<section id="participants" class="level3">
-<h3>Participants</h3>
-<p>We have confirmed 6 participants (updated Jan. 14)</p>
+<p>We have confirmed 13 participants (updated May 12<sup>th</sup>):</p>
+<ul>
+<li><a href="https://www.ifi.uzh.ch/en/seal/people/alexandru.html">Carol Alexandru</a> (University of Zurich)</li>
+<li><a href="https://andychu.net/">Andy Chu</a> (Unaffiliated)</li>
+<li><a href="http://people.csail.mit.edu/jcito/">Jürgen Cito</a> (TU Wien)</li>
+<li><a href="https://tvcutsem.github.io/">Tom Van Cutsem</a> (Bell Labs)</li>
+<li><a href="http://users.eecs.northwestern.edu/~chrdimo/">Christos Dimoulas</a> (Northeastern University)</li>
+<li><a href="http://www.migamake.com/">Michał J Gajda</a> (Migamake)</li>
+<li><a href="https://glassmanlab.seas.harvard.edu/glassman.html">Elena Glassman</a> (Harvard University)</li>
+<li><a href="https://www.vidarholen.net/">Vidar Holen</a> (Facebook)</li>
+<li><a href="http://people.csail.mit.edu/karger/">David Karger</a> (MIT)</li>
+<li><a href="https://who.paris.inria.fr/Julia.Lawall/">Julia Lawall</a> (Inria-Paris; IRILL)</li>
+<li><a href="https://www.cs.dartmouth.edu/~doug/">Doug McIlroy</a> (Dartmouth College)</li>
+<li><a href="http://www.cs.yale.edu/homes/piskac/">Ruzica Piskac</a> (Yale University)</li>
+<li><a href="http://shenjiasi.com/">Jiasi Shen</a> (MIT)</li>
+</ul>
 </section>
 <section id="organizers-contact" class="level3">
 <h3>Organizers / Contact</h3>
