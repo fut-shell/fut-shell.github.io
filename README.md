@@ -2,7 +2,7 @@
 title: "The Future of the Shell: Unix and Beyond"
 subtitle: A HotOS'21 Panel on Management, Configuration, Orchestration, and Data Processing in the Shell
 # author: " [Nikos Vasilakis](http://nikos.vasilak.is)"
-Quick info: "[Jun. 2, 2021, 1–2:30PM ET](https://calendar.google.com/event?action=TEMPLATE&tmeid=NTA2Mm1tZ2FzMXVvamFzYTEzNHZjdXVnZzEgbmlrb3NAdmFzaWxhay5pcw&tmsrc=nikos%40vasilak.is) | Registration: [HotOS](https://web.cvent.com/event/ea21de2e-ff68-470b-8b09-743b6572c469/) | Contact: [future-shell](https://groups.google.com/g/future-shell)"
+Quick info: "[Jun. 3, 2021, 1–2:30PM ET](https://calendar.google.com/event?action=TEMPLATE&tmeid=MTFrN2tpbWJuMTVmZHBuazduOGpkNThqamIgNWo1MTBsNGIzY2VoYTc2bmVzc3FtMDhnNGtAZw&tmsrc=5j510l4b3ceha76nessqm08g4k%40group.calendar.google.com) | Registration: [HotOS](https://web.cvent.com/event/ea21de2e-ff68-470b-8b09-743b6572c469/) | Contact: [future-shell](https://groups.google.com/g/future-shell)"
 ---
 
 The goal of this [HotOS'21](https://sigops.org/s/conferences/hotos/2021/) panel to explore and highlight future avenues for research in the context of the shell, informed by both industry and academia---across various academic communities including systems, programming languages, software engineering, security, and human-computer interaction.
@@ -35,8 +35,8 @@ The concrete topics of the panel will be informed by the interests of the panel'
 
 ### Format
 
-The 90-minute event (on June 2<sup>nd</sup> 2021 from 1--2:30pm
-ET) has a small panel of experts on shell-related topics. The
+The 90-minute event (on [June 3<sup>rd</sup> 2021 from 1--2:30pm
+ET](https://calendar.google.com/event?action=TEMPLATE&tmeid=MTFrN2tpbWJuMTVmZHBuazduOGpkNThqamIgNWo1MTBsNGIzY2VoYTc2bmVzc3FtMDhnNGtAZw&tmsrc=5j510l4b3ceha76nessqm08g4k%40group.calendar.google.com)) has a small panel of experts on shell-related topics. The
 event itself is discussion based.
 
 | Activity                                          | Time  |
