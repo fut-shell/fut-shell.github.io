@@ -15,6 +15,8 @@ Attendees will have the ability to participate in "webinar" format, some way for
 These questions and the discussion will be moderated by the organizers. 
 To attend, [please register with HotOS](https://web.cvent.com/event/ea21de2e-ff68-470b-8b09-743b6572c469/).
 
+You can read more in the [official panel description](panel-summary.pdf).
+
 <section>
 
 ### Background, Aim, and Scope
