@@ -66,21 +66,24 @@ Our panelists will be:
 * [Chet Ramey](https://tiswww.case.edu/php/chet/) (Case Western Reserve University)
 * [Diomidis Spinellis](https://www2.dmst.aueb.gr/dds/) (Athens University of Economics and Business; Delft University of Technology)
 
-We have confirmed 13 participants (updated May 12<sup>th</sup>):
+We have confirmed 16 participants (updated May 18<sup>th</sup>):
 
 * [Carol Alexandru](https://www.ifi.uzh.ch/en/seal/people/alexandru.html) (University of Zurich)
 * [Andy Chu](https://andychu.net/) (Unaffiliated)
 * [Jürgen Cito](http://people.csail.mit.edu/jcito/) (TU Wien)
 * [Tom Van Cutsem](https://tvcutsem.github.io/) (Bell Labs)
+* [Ting Dai](https://tingdai.github.io/index.html) (IBM Research)
 * [Christos Dimoulas](http://users.eecs.northwestern.edu/~chrdimo/) (Northeastern University)
-* [Michał J Gajda](http://www.migamake.com/) (Migamake)
 * [Elena Glassman](https://glassmanlab.seas.harvard.edu/glassman.html) (Harvard University)
 * [Vidar Holen](https://www.vidarholen.net/) (Facebook)
+* [Michał J Gajda](http://www.migamake.com/) (Migamake)
 * [David Karger](http://people.csail.mit.edu/karger/) (MIT)
-* [Julia Lawall](https://who.paris.inria.fr/Julia.Lawall/) (Inria-Paris; IRILL)
+* [Julia Lawall](https://who.paris.inria.fr/Julia.Lawall/) (Inria)
 * [Doug McIlroy](https://www.cs.dartmouth.edu/~doug/) (Dartmouth College)
 * [Ruzica Piskac](http://www.cs.yale.edu/homes/piskac/) (Yale University)
 * [Jiasi Shen](http://shenjiasi.com/) (MIT)
+* [Keith Winstein](https://cs.stanford.edu/~keithw/) (Stanford University)
+* [Tianyin Xu](https://tianyin.github.io/) (UIUC)
 
 ### Organizers / Contact
 
