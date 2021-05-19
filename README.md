@@ -69,7 +69,7 @@ Our panelists will be:
 We have confirmed 16 participants (updated May 18<sup>th</sup>):
 
 * [Carol Alexandru](https://www.ifi.uzh.ch/en/seal/people/alexandru.html) (University of Zurich)
-* [Andy Chu](https://andychu.net/) (Unaffiliated)
+* [Andy Chu](https://andychu.net/) ([Oil shell](https://www.oilshell.org/))
 * [Jürgen Cito](http://people.csail.mit.edu/jcito/) (TU Wien)
 * [Tom Van Cutsem](https://tvcutsem.github.io/) (Bell Labs)
 * [Ting Dai](https://tingdai.github.io/index.html) (IBM Research)
