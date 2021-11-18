@@ -17,6 +17,8 @@ To attend, [please register with HotOS](https://web.cvent.com/event/ea21de2e-ff6
 
 You can read more in the [official panel description](panel-summary.pdf).
 
+If you are interested in a summary of the event, take a look at the [report](https://arxiv.org/pdf/2109.11016.pdf).
+
 <section>
 
 ### Background, Aim, and Scope
