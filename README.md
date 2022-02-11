@@ -15,9 +15,28 @@ Attendees will have the ability to participate in "webinar" format, some way for
 These questions and the discussion will be moderated by the organizers. 
 To attend, [please register with HotOS](https://web.cvent.com/event/ea21de2e-ff68-470b-8b09-743b6572c469/).
 
-You can read more in the [official panel description](panel-summary.pdf).
+To cite the panel, or ideas and discussion related to the panel, please use the following bibtex entry:
 
-If you are interested in a summary of the event, take a look at the [report](https://arxiv.org/pdf/2109.11016.pdf).
+```bibtex
+@inproceedings{10.1145/3458336.3465296,
+author = {Greenberg, Michael and Kallas, Konstantinos and Vasilakis, Nikos},
+title = {The Future of the Shell: Unix and Beyond},
+year = {2021},
+isbn = {9781450384384},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3458336.3465296},
+doi = {10.1145/3458336.3465296},
+abstract = {The Unix shell is fifty years old, and it continues to be the primary way to configure, deploy, and manage systems of all kinds. What do the next fifty years hold? What is the command-line interface of the 21st century?This 90-minute panel brings together researchers and engineers from disparate communities (systems, languages, security) to think about the shell's strengths and weaknesses, challenges and opportunities around the shell, and the shell's future.},
+booktitle = {Proceedings of the Workshop on Hot Topics in Operating Systems},
+pages = {240–241},
+numpages = {2},
+location = {Ann Arbor, Michigan},
+series = {HotOS '21}
+}
+```
+
+Resources: [ACM Digital Library](https://dl.acm.org/doi/10.1145/3458336.3465296) | [1-Page Panel Description](panel-summary.pdf) | [Report Summarizing the Discussion](https://arxiv.org/pdf/2109.11016.pdf).
 
 <section>
 
